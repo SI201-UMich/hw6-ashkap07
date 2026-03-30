@@ -2,13 +2,14 @@
 # Your name: Ashka Patel
 # Your student id: 53816807
 # Your email: ashkap@umich.edu
-# Who or what you worked with on this homework (including generative AI like ChatGPT):
+# Who or what you worked with on this homework (including generative AI like ChatGPT): Gemini
 # If you worked with generative AI also add a statement for how you used it.
-# e.g.:
-# Asked ChatGPT for help debugging and understanding the JSON structure
-#
+#Asked gemini to break down how the json, cache etc was working so that I could understand how 
+# each individual function is working 
+
+
 # Did your use of GenAI on this assignment align with your goals and guidelines in your Gen AI contract? If not, why?
-#
+# Yes, I never used genAI to write all of the code, I asked it for tips in debugging etc
 # --- ARGUMENTS & EXPECTED RETURN VALUES PROVIDED --- #
 # --- SEE INSTRUCTIONS FOR FULL DETAILS ON METHOD IMPLEMENTATION --- #
 
